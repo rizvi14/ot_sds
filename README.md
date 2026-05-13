@@ -9,3 +9,5 @@ The base files in this repo are labeled below, and are the starting point for th
 5) View SQL — reporting view_funnel_dashboard (PDF)
 6) reporting.view_funnel_dashboard (CSV)
 7) image (PNG)
+
+[Final Presentation](https://gamma.app/docs/Office-Timeline-Take-Home-Presentation-w2qyak99hgyfrjz)
